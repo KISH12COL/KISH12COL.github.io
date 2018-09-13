@@ -26,20 +26,20 @@ body {
         color: rgb(0, 0, 0);
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-  color: rgb(255, 255, 255)
-}
-
 table {
     border-collapse: collapse;
 }
 
 table, th, td {
     border: 1px rgb(0, 0, 0);
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+  color: rgb(255, 255, 255)
 }
 
 h1, h2, h3, h4, h5, h6 {
