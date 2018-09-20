@@ -28,11 +28,15 @@ body {
 
 table {
     border-collapse: collapse;
+    width: 100%;
 }
 
 table, td, th {
     border: 1px rgb(0, 0, 0);
 }
+th {
+	text-align: left;
+}   
 
 .container {
   margin: 0 auto;
